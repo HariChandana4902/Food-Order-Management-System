@@ -1,4 +1,4 @@
-<h1 align="center">Food Order Management System</h1>
+<h1 align="center">:sparkles:Food Order Management System:sparkles:</h1>
 
 This is a responsive, static template of Food Order Management System web application.
 
