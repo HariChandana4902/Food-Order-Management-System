@@ -17,3 +17,57 @@ This is not a fullly Completed website so we did'nt add any audio to this video.
 You can see our website here:
 
 https://harichandana4902.github.io/Food-Order-Management-System/
+## ✨Contributors
+
+<table>
+<tr align="center">
+
+
+
+
+<td>
+
+Hari Chandana
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/80469143?v"  height="120" alt="Hari Chandana">
+</p>
+<p align="center">
+<a href = "https://github.com/HariChandana4902"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+
+</a>
+</p>
+</td>
+
+<td>
+
+Ganesh
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/73786195?v=4"  height="120" alt="Ganesh">
+</p>
+<p align="center">
+<a href = "https://github.com/saiganesh1804"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+
+</a>
+</p>
+</td>
+
+<td>
+
+Niharika
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/64249843?s=400&u=ed755948982b44a203d23e395f39ef3398eab6f5&v=4"  height="120" alt="Niharika">
+</p>
+<p align="center">
+<a href = "https://github.com/D-Palamala-Sai-Niharika"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+
+</a>
+</p>
+</td>
+
+  </table>
+</tr>
+  </table>
+
